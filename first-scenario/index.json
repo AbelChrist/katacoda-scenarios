@@ -4,7 +4,12 @@
   "difficulty": "Beginner",
   "time": "4 hours",
   "details": {
-    "steps": [],
+    "steps": [
+    	{
+	  "title": "",
+	  "text": "index.md"
+	}
+    ],
     "intro": {
       "text": "intro.md"
     },
@@ -14,6 +19,7 @@
   },
   "environment": {
 	"uilayout": "terminal",
+	"showide": true,
 	"hideintro": true,
         "hidefinish": true
   },
