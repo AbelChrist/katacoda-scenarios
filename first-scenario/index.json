@@ -1,15 +1,10 @@
 {
-  "title": "aceztea",
-  "description": "",
+  "title": "aceztea's Terminal",
+  "description": "just terminal",
   "difficulty": "Beginner",
   "time": "4 hours",
   "details": {
-    "steps": [
-      {
-        "title": "Step 1",
-        "text": "step1.md"
-      }
-    ],
+    "steps": [],
     "intro": {
       "text": "intro.md"
     },
